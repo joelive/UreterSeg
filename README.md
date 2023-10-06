@@ -1,5 +1,5 @@
 # UreterSeg
-UreterSeg: Filling the Gap in Abdominal Organ Segmentation - The First Large-Scale Dataset for Challenging Ureter Segmentation.
+UreterSeg: The First Large-Scale Dataset for Challenging Ureter Segmentation -Filling the Gap in Abdominal Organ Segmentation.
 ![plot](./figure1.png)
 This repo provides the codebase and dataset of work UreterSeg: Filling the Gap in Abdominal Organ Segmentation - The First Large-Scale Dataset for Challenging Ureter Segmentation from nc-CT and CTU images 
 
