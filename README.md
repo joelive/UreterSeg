@@ -3,7 +3,7 @@ UreterSeg: The First Large-Scale Dataset for Challenging Ureter Segmentation -Fi
 ![plot](./figure1.png)
 This repo provides the codebase and dataset of work UreterSeg: Filling the Gap in Abdominal Organ Segmentation - The First Large-Scale Dataset for Challenging Ureter Segmentation from nc-CT and CTU images 
 
-# DataSet
+# DataSet and Models
 Please contact Jun (linkwj AT shsmu DOT edu DOT cn) for the dataset. Using your affiliation email to get the unzip password/BaiduPan access code. The email should contain the following information:
 Name/Homepage/Google Scholar: (Tell us who you are.)
 Primary Affiliation: (The name of your institution or university, etc.)
